@@ -1,0 +1,26 @@
+.carousel-item{
+    height:600px;
+}
+
+.carousel-item img{
+    height:600px;
+}
+
+.carousel-caption h5,p{
+color: black;
+}
+
+.card{
+   margin-left: 80px;
+   margin-top: 30px;
+}
+
+.card1{
+    margin-left: 580px;
+   margin-top: -340px;
+}
+
+.card2{
+    margin-left: 1080px;
+   margin-top: -350px;
+}
